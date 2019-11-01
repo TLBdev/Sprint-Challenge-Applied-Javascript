@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    The DOM(document object model) is is a language agnostic object that is a model of the document(HTML) 
+
 2. What is an event?
+
+    Anything that happens on or to your application
 
 3. What is an event listener?
 
+    A peice of code that sets a response for a given event.
+
 4. Why would we convert a NodeList into an Array?
 
+    to gain acces to array methods other than .forEach()
+
 5. What is a component?
+
+    A peice of code that can be reused to avoid re-typing and save time.
 
 ### Git Set up
 
