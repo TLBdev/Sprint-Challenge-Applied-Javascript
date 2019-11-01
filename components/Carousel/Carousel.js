@@ -63,6 +63,13 @@ function carouselCreator(){
       img2.style.display = 'none'
       img3.style.display = 'none'
       img4.style.display = 'none'
+    }else{
+      counter = 3
+      img1.style.display = 'none'
+      img2.style.display = 'none'
+      img3.style.display = 'none'
+      img4.style.display = 'inline-block'
+
     }
       
   })
@@ -85,6 +92,13 @@ function carouselCreator(){
       img2.style.display = 'none'
       img3.style.display = 'none'
       img4.style.display = 'inline-block'
+    }else{
+      counter = 0
+      img1.style.display = 'inline-block'
+      img2.style.display = 'none'
+      img3.style.display = 'none'
+      img4.style.display = 'none'
+
     }
   })
   
